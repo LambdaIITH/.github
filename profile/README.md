@@ -7,9 +7,10 @@ We are a community of passionate developers focused on building impactful softwa
 ## Our Projects
 We work on a variety of projects that cater to the needs of the IITH community. Our main project includes:
 
-- **[IITH Dashboard](https://github.com/lambdaIITH/IITH-Dashboard)**: A comprehensive app for managing campus resources, including features like Cabsharing, Mess Menu, Bus Schedule, and more.
+- **[IITH Dashboard](https://github.com/lambdaIITH/Dashboard)**: A comprehensive app for managing campus resources, including features like Cabsharing, Mess Menu, Bus Schedule, and more.
 - **Campus Security System**: A system for managing entry-exit of IITH Fraternity using barcode.
 - **[Cab Sharing Website](https://github.com/lambdaIITH/cab-sharing-portal)**: A platform to facilitate cab sharing among students, helping them connect with others who have similar travel routes and schedules.
+- **[Yearbook](https://github.com/lambdaIITH/r-place)**: A website designed for IITH students to explore and share college memories and anecdotes. It replicates the concept of "r/place," but is tailored specifically for the students of IITH.
 
 Explore our repositories to see what we’re working on here: [Lambda Repositories](https://github.com/orgs/LambdaIITH/repositories)
 
@@ -18,5 +19,6 @@ Interested in contributing? We’re always looking for new members to join our c
 
 ## Contact Us
 - **Email**: lambda@iith.ac.in
+- **Discord**: [lambda-iith](https://discord.gg/fGbttHvtwV)
 - **Instagram**: [@lambda_iith](https://www.instagram.com/lambda_iith)
 - **LinkedIn**: [lambda-iit-hyderabad](https://linkedin.com/company/lambda-iit-hyderabad)
